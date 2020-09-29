@@ -1,0 +1,8 @@
+.pio
+.clang_complete
+.gcc-flags.json
+
+cert/
+platformio-device-monitor*
+
+src/secrets.h
